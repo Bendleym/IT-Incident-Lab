@@ -29,7 +29,7 @@ A user is unable to sign in due to incorrect credentials or account lockout.
 - Ensured access to required applications  
 
 📸 **Screenshot — Login Issue Example**  
-<img width="1536" height="1024" alt="Designer (4)" src="https://github.com/user-attachments/assets/02d698ed-a519-4c5f-87a5-45a082d2a8c2" />
+<img width="1536" height="1024" alt="Designer (5)" src="https://github.com/user-attachments/assets/6c8a88d6-7766-4562-8150-c5bae56938b3" />
 
 ---
 
@@ -44,7 +44,7 @@ A workstation is unable to access network resources.
 - Restored connectivity and verified access  
 
 📸 **Screenshot — Network Troubleshooting**  
-<img width="1536" height="1024" alt="Designer (5)" src="https://github.com/user-attachments/assets/6c8a88d6-7766-4562-8150-c5bae56938b3" />
+<img width="1536" height="1024" alt="Designer (6)" src="https://github.com/user-attachments/assets/d6177d21-b368-4853-a7eb-9020d8ca8438" />
 
 ---
 
@@ -58,7 +58,7 @@ A user is unable to print to a shared network printer.
 - Validated print functionality  
 
 📸 **Screenshot — Printer Troubleshooting**  
-<img width="1536" height="1024" alt="Designer (6)" src="https://github.com/user-attachments/assets/d6177d21-b368-4853-a7eb-9020d8ca8438" />
+<img width="1536" height="1024" alt="Designer (7)" src="https://github.com/user-attachments/assets/0a86a5fe-ab95-4bf0-ace5-20825180f27c" />
 
 ---
 
@@ -74,7 +74,7 @@ Each incident was documented following standard service desk procedures.
 - Final status and follow‑up notes  
 
 📸 **Screenshot — Ticket Documentation Example**  
-<img width="1536" height="1024" alt="Designer (7)" src="https://github.com/user-attachments/assets/0a86a5fe-ab95-4bf0-ace5-20825180f27c" />
+<img width="1536" height="1024" alt="Designer (4)" src="https://github.com/user-attachments/assets/02d698ed-a519-4c5f-87a5-45a082d2a8c2" />
 
 ---
 
