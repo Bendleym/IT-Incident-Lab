@@ -24,7 +24,8 @@ User unable to sign in due to incorrect credentials or account lockout.
 • Reset credentials and verified successful authentication
 • Confirmed user access to required applications
 
-<img width="800" alt="Login Issue Example" src="YOUR_LOGIN_SCREENSHOT_LINK_HERE" />
+<img width="1536" height="1024" alt="Designer (4)" src="https://github.com/user-attachments/assets/02d698ed-a519-4c5f-87a5-45a082d2a8c2" />
+
 🌐 Network Connectivity Loss
 
 Workstation unable to access network resources.
@@ -32,7 +33,8 @@ Workstation unable to access network resources.
 • Diagnosed IP configuration issues using command-line tools
 • Restored connectivity and verified external access
 
-<img width="800" alt="Network Troubleshooting" src="YOUR_NETWORK_SCREENSHOT_LINK_HERE" />
+<img width="1536" height="1024" alt="Designer (5)" src="https://github.com/user-attachments/assets/6c8a88d6-7766-4562-8150-c5bae56938b3" />
+
 🖨️ Printer Outage
 
 User unable to print to a shared network printer.
@@ -40,7 +42,8 @@ User unable to print to a shared network printer.
 • Restarted print spooler service
 • Reinstalled printer driver and validated output
 
-<img width="800" alt="Printer Troubleshooting" src="YOUR_PRINTER_SCREENSHOT_LINK_HERE" />
+<img width="1536" height="1024" alt="Designer (6)" src="https://github.com/user-attachments/assets/d6177d21-b368-4853-a7eb-9020d8ca8438" />
+
 ⚙️ Troubleshooting Workflow
 
 Each incident followed a structured Tier 1 process:
@@ -67,7 +70,8 @@ All incidents included structured notes similar to real service desk tickets:
 • Resolution actions taken
 • Final status and follow-up
 
-<img width="800" alt="Ticket Documentation Example" src="YOUR_TICKET_SCREENSHOT_LINK_HERE" />
+<img width="1536" height="1024" alt="Designer (7)" src="https://github.com/user-attachments/assets/0a86a5fe-ab95-4bf0-ace5-20825180f27c" />
+
 🎯 Skills Demonstrated
 
 ✔ Tier 1 troubleshooting methodology
